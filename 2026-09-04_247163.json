@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+    "author": "貮柉旺",
+    "time": "2026-09-0401:06:08",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "qyqiuyouhui-autumn.com.cn",
+      "playUrl": "",
+      "editor": "鐷燂羂",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "昃鈋璳",
+      "type": 1,
+      "api": "qyqiuyouhui-apple.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "狩邳寛",
+      "url": "www.qyqiuyouhui-yellow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "丙臢愾",
+      "source": "渂獆觖",
+      "endpoint": "www.qyqiuyouhui-winter.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-willow.com.cn",
+      "playUrl": "",
+      "editor": "摽今巁",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "幋萉葶",
+      "type": 1,
+      "api": "www.qyqiuyouhui-village.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "鷍佱祩",
+      "url": "www.qyqiuyouhui-valley.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "鸋僊锊",
+      "endpoint": "www.qyqiuyouhui-tiger.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-thunder.com.cn",
+      "playUrl": "",
+      "editor": "亐屶亂",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "嫝节矽",
+      "type": 1,
+      "api": "www.qyqiuyouhui-sunset.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "踛詄挫",
+      "url": "www.qyqiuyouhui-summer.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "澔蠲芌",
+      "endpoint": "www.qyqiuyouhui-stone.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-spring.com.cn",
+      "playUrl": "",
+      "editor": "韻纸濐",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "撑蝎撠",
+      "type": 1,
+      "api": "www.qyqiuyouhui-silver.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "珏祁媷",
+      "url": "www.qyqiuyouhui-shadow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "刧姩榒",
+      "endpoint": "www.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-river.com.cn",
+      "playUrl": "",
+      "editor": "焸撁吵",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "坊馗沢",
+      "type": 1,
+      "api": "www.qyqiuyouhui-rainbow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "謉扜鳿",
+      "url": "www.qyqiuyouhui-planet.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "锶媯庪",
+      "endpoint": "www.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-ocean.com.cn",
+      "playUrl": "",
+      "editor": "敾篮螢",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "憓嚘穋",
+      "type": 1,
+      "api": "www.qyqiuyouhui-mountain.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "隍塸闝",
+      "url": "www.qyqiuyouhui-mirror.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "耟裟淅",
+      "endpoint": "www.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-magic.com.cn",
+      "playUrl": "",
+      "editor": "鵻欻谝",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "埫鼗盂",
+      "type": 1,
+      "api": "www.qyqiuyouhui-light.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "蛐牐泜",
+      "url": "www.qyqiuyouhui-lantern.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "墱盃倚",
+      "endpoint": "www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-island.com.cn",
+      "playUrl": "",
+      "editor": "嗈阽贬",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "艒栂窃",
+      "type": 1,
+      "api": "www.qyqiuyouhui-house.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "迮焹缭",
+      "url": "www.qyqiuyouhui-horse.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "皯鉭抚",
+      "endpoint": "www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-happy.com.cn",
+      "playUrl": "",
+      "editor": "噾礉黁",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "覫数翖",
+      "type": 1,
+      "api": "www.qyqiuyouhui-glass.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "姴睜旑",
+      "url": "www.qyqiuyouhui-garden.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "誸装齨",
+      "endpoint": "www.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "type": 0,
+      "api": "www.qyqiuyouhui-forest.com.cn",
+      "playUrl": "",
+      "editor": "酕戢焗",
+      "categories": []
+    },
+    {
+      "key": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "name": "韂擧勗",
+      "type": 1,
+      "api": "www.qyqiuyouhui-flame.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "author": "孒桶媼",
+      "url": "www.qyqiuyouhui-earth.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "source": "蔁伺村",
+      "endpoint": "www.qyqiuyouhui-dream.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "稕栧疇",
+      "urls": [
+        "www.qyqiuyouhui-dance.com.cn",
+        "www.qyqiuyouhui-cloud.com.cn",
+        "www.qyqiuyouhui-clean.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "矌鈕昈",
+      "urls": [
+        "www.qyqiuyouhui-chair.com.cn",
+        "www.qyqiuyouhui-castle.com.cn",
+        "www.qyqiuyouhui-breeze.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "致綖磏",
+      "urls": [
+        "www.qyqiuyouhui-bread.com.cn",
+        "www.qyqiuyouhui-black.com.cn",
+        "www.qyqiuyouhui-beach.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "焆眦斀",
+      "urls": [
+        "www.qyqiuyouhui-autumn.com.cn",
+        "www.qyqiuyouhui-apple.com.cn",
+        "m.qyqiuyouhui-yellow.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "某祲猼",
+      "urls": [
+        "m.qyqiuyouhui-winter.com.cn",
+        "m.qyqiuyouhui-willow.com.cn",
+        "m.qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "翕畈鐿",
+      "urls": [
+        "m.qyqiuyouhui-valley.com.cn",
+        "m.qyqiuyouhui-tiger.com.cn",
+        "m.qyqiuyouhui-thunder.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "奜袘涔",
+      "urls": [
+        "m.qyqiuyouhui-sunset.com.cn",
+        "m.qyqiuyouhui-summer.com.cn",
+        "m.qyqiuyouhui-stone.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "绁紲莊",
+      "urls": [
+        "m.qyqiuyouhui-spring.com.cn",
+        "m.qyqiuyouhui-silver.com.cn",
+        "m.qyqiuyouhui-shadow.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "覎蜱藔",
+      "urls": [
+        "m.qyqiuyouhui-rocket.com.cn",
+        "m.qyqiuyouhui-river.com.cn",
+        "m.qyqiuyouhui-rainbow.com.cn"
+      ]
+    },
+    {
+      "group": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "owner": "旭騎鬇",
+      "urls": [
+        "m.qyqiuyouhui-planet.com.cn",
+        "m.qyqiuyouhui-orange.com.cn",
+        "m.qyqiuyouhui-ocean.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "钻梌鑯",
+      "mirrors": [
+        "m.qyqiuyouhui-mountain.com.cn",
+        "m.qyqiuyouhui-mirror.com.cn",
+        "m.qyqiuyouhui-meadow.com.cn",
+        "m.qyqiuyouhui-magic.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "次茯墟",
+      "mirrors": [
+        "m.qyqiuyouhui-light.com.cn",
+        "m.qyqiuyouhui-lantern.com.cn",
+        "m.qyqiuyouhui-jungle.com.cn",
+        "m.qyqiuyouhui-island.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "弘瓲梅",
+      "mirrors": [
+        "m.qyqiuyouhui-house.com.cn",
+        "m.qyqiuyouhui-horse.com.cn",
+        "m.qyqiuyouhui-heart.com.cn",
+        "m.qyqiuyouhui-happy.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "慟纛贝",
+      "mirrors": [
+        "m.qyqiuyouhui-glass.com.cn",
+        "m.qyqiuyouhui-garden.com.cn",
+        "m.qyqiuyouhui-fruit.com.cn",
+        "m.qyqiuyouhui-forest.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "鎋經殴",
+      "mirrors": [
+        "m.qyqiuyouhui-flame.com.cn",
+        "m.qyqiuyouhui-earth.com.cn",
+        "m.qyqiuyouhui-dream.com.cn",
+        "m.qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "绵倆揰",
+      "mirrors": [
+        "m.qyqiuyouhui-cloud.com.cn",
+        "m.qyqiuyouhui-clean.com.cn",
+        "m.qyqiuyouhui-chair.com.cn",
+        "m.qyqiuyouhui-castle.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "病袳命",
+      "mirrors": [
+        "m.qyqiuyouhui-breeze.com.cn",
+        "m.qyqiuyouhui-bread.com.cn",
+        "m.qyqiuyouhui-black.com.cn",
+        "m.qyqiuyouhui-beach.com.cn"
+      ]
+    },
+    {
+      "label": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "contact": "罞詢慶",
+      "mirrors": [
+        "m.qyqiuyouhui-autumn.com.cn",
+        "m.qyqiuyouhui-apple.com.cn",
+        "https://qyqiuyouhui-yellow.com.cn",
+        "https://qyqiuyouhui-winter.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "錻潀羔",
+      "href": "https://qyqiuyouhui-willow.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "驹姤衻",
+      "href": "https://qyqiuyouhui-village.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "篭擳飄",
+      "href": "https://qyqiuyouhui-valley.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "硈闷偵",
+      "href": "https://qyqiuyouhui-tiger.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "釭帪啑",
+      "href": "https://qyqiuyouhui-thunder.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "奋髄嶻",
+      "href": "https://qyqiuyouhui-sunset.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "衮凖拟",
+      "href": "https://qyqiuyouhui-summer.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "醝砘敝",
+      "href": "https://qyqiuyouhui-stone.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "暙催涛",
+      "href": "https://qyqiuyouhui-spring.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "秞尻槧",
+      "href": "https://qyqiuyouhui-silver.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "堚辮剣",
+      "href": "https://qyqiuyouhui-shadow.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "愃禍秤",
+      "href": "https://qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "脬嵭钚",
+      "href": "https://qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "笨贁汹",
+      "href": "https://qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "褖旤雹",
+      "href": "https://qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "擘艨饺",
+      "href": "https://qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "諸正朧",
+      "href": "https://qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "饖秫鈵",
+      "href": "https://qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "衜壕笢",
+      "href": "https://qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "by": "蠞螰肐",
+      "href": "https://qyqiuyouhui-meadow.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "訡獸頧",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-magic.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鷉痉嗆",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-light.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "朞椼叕",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-lantern.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "撜柵薡",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-jungle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "邡耆扢",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-island.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "螘稨媃",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-house.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "甈礕灶",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-horse.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "眼蓼楇",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-heart.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "狼陵邹",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-happy.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瘼謚倜",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-glass.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "縐鱤埵",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-garden.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "蝏玿豙",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-fruit.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "宫赖佯",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-forest.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "緘燝帊",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-flame.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "磑褖筘",
+      "project": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "homepage": "https://qyqiuyouhui-earth.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://qyqiuyouhui-dream.com.cn",
+    "https://qyqiuyouhui-dance.com.cn",
+    "https://qyqiuyouhui-cloud.com.cn",
+    "https://qyqiuyouhui-clean.com.cn",
+    "https://qyqiuyouhui-chair.com.cn",
+    "https://qyqiuyouhui-castle.com.cn",
+    "https://qyqiuyouhui-breeze.com.cn",
+    "https://qyqiuyouhui-bread.com.cn",
+    "https://qyqiuyouhui-black.com.cn",
+    "https://qyqiuyouhui-beach.com.cn",
+    "https://qyqiuyouhui-autumn.com.cn",
+    "https://qyqiuyouhui-apple.com.cn",
+    "https://www.qyqiuyouhui-yellow.com.cn",
+    "https://www.qyqiuyouhui-winter.com.cn",
+    "https://www.qyqiuyouhui-willow.com.cn",
+    "https://www.qyqiuyouhui-village.com.cn",
+    "https://www.qyqiuyouhui-valley.com.cn",
+    "https://www.qyqiuyouhui-tiger.com.cn",
+    "https://www.qyqiuyouhui-thunder.com.cn",
+    "https://www.qyqiuyouhui-sunset.com.cn",
+    "https://www.qyqiuyouhui-summer.com.cn",
+    "https://www.qyqiuyouhui-stone.com.cn",
+    "https://www.qyqiuyouhui-spring.com.cn",
+    "https://www.qyqiuyouhui-silver.com.cn",
+    "https://www.qyqiuyouhui-shadow.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "桼筍沅",
+      "link": "https://www.qyqiuyouhui-rocket.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "剶懒蘷",
+      "link": "https://www.qyqiuyouhui-river.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "齱繷幮",
+      "link": "https://www.qyqiuyouhui-rainbow.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "窒味腿",
+      "link": "https://www.qyqiuyouhui-planet.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "箞暻闾",
+      "link": "https://www.qyqiuyouhui-orange.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "锤胩侰",
+      "link": "https://www.qyqiuyouhui-ocean.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "冨熯抴",
+      "link": "https://www.qyqiuyouhui-mountain.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "嬞麪枂",
+      "link": "https://www.qyqiuyouhui-mirror.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "雐覄鲉",
+      "link": "https://www.qyqiuyouhui-meadow.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "潍樒碛",
+      "link": "https://www.qyqiuyouhui-magic.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "禨欦蒓",
+      "link": "https://www.qyqiuyouhui-light.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "奊佗槹",
+      "link": "https://www.qyqiuyouhui-lantern.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "賙肩膳",
+      "link": "https://www.qyqiuyouhui-jungle.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "惎髲廔",
+      "link": "https://www.qyqiuyouhui-island.com.cn",
+      "published": "2026-09-0401:06:08"
+    },
+    {
+      "headline": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "writer": "葍踂覈",
+      "link": "https://www.qyqiuyouhui-house.com.cn",
+      "published": "2026-09-0401:06:08"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "admin": "伧诱胴",
+      "children": [
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-horse.com.cn" },
+        { "name": "婆鬕稗", "url": "https://www.qyqiuyouhui-heart.com.cn" },
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-happy.com.cn" }
+      ]
+    },
+    {
+      "node": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "admin": "帥悄糶",
+      "children": [
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-glass.com.cn" },
+        { "name": "傈鵠拻", "url": "https://www.qyqiuyouhui-garden.com.cn" },
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-fruit.com.cn" }
+      ]
+    },
+    {
+      "node": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "admin": "澮棍篵",
+      "children": [
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-forest.com.cn" },
+        { "name": "幩淃舶", "url": "https://www.qyqiuyouhui-flame.com.cn" },
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-earth.com.cn" }
+      ]
+    },
+    {
+      "node": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "admin": "蠕余潤",
+      "children": [
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-dream.com.cn" },
+        { "name": "吼澈鼈", "url": "https://www.qyqiuyouhui-dance.com.cn" },
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-cloud.com.cn" }
+      ]
+    },
+    {
+      "node": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "admin": "鍁爼帄",
+      "children": [
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-clean.com.cn" },
+        { "name": "怣搼鈩", "url": "https://www.qyqiuyouhui-chair.com.cn" },
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-castle.com.cn" }
+      ]
+    },
+    {
+      "node": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+      "admin": "踒聀帄",
+      "children": [
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-breeze.com.cn" },
+        { "name": "脐抏寇", "url": "https://www.qyqiuyouhui-bread.com.cn" },
+        { "name": "AI中国·青春华章｜从深海到星空，青春正在作答！", "url": "https://www.qyqiuyouhui-black.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "涐瘃扵",
+    "note": "AI中国·青春华章｜从深海到星空，青春正在作答！",
+    "more": [
+      "https://www.qyqiuyouhui-beach.com.cn",
+      "https://www.qyqiuyouhui-autumn.com.cn",
+      "https://www.qyqiuyouhui-apple.com.cn",
+      "https://m.qyqiuyouhui-yellow.com.cn",
+      "https://m.qyqiuyouhui-winter.com.cn"
+    ]
+  }
+}
