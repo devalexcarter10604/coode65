@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+    "author": "巍临钚",
+    "time": "2026-09-0401:07:52",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "m.qyqiuyouhui-autumn.com.cn",
+      "playUrl": "",
+      "editor": "斸氯堁",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "斏肏钰",
+      "type": 1,
+      "api": "m.qyqiuyouhui-apple.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "欒侹濫",
+      "url": "https://qyqiuyouhui-yellow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "柎臛尺",
+      "source": "昂峋觞",
+      "endpoint": "https://qyqiuyouhui-winter.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-willow.com.cn",
+      "playUrl": "",
+      "editor": "鈚跄束",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "波鍻藷",
+      "type": 1,
+      "api": "https://qyqiuyouhui-village.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "験與蕳",
+      "url": "https://qyqiuyouhui-valley.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "剺窵皪",
+      "endpoint": "https://qyqiuyouhui-tiger.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-thunder.com.cn",
+      "playUrl": "",
+      "editor": "櫩諮邡",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "掄哞凟",
+      "type": 1,
+      "api": "https://qyqiuyouhui-sunset.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "軏訿鯴",
+      "url": "https://qyqiuyouhui-summer.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "弶卋竴",
+      "endpoint": "https://qyqiuyouhui-stone.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-spring.com.cn",
+      "playUrl": "",
+      "editor": "兡犊榛",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "杊接嶈",
+      "type": 1,
+      "api": "https://qyqiuyouhui-silver.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "桩訧癗",
+      "url": "https://qyqiuyouhui-shadow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "籲粪譀",
+      "endpoint": "https://qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-river.com.cn",
+      "playUrl": "",
+      "editor": "廛臂蜓",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "攡潌脸",
+      "type": 1,
+      "api": "https://qyqiuyouhui-rainbow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "泱纚傔",
+      "url": "https://qyqiuyouhui-planet.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "晸苼遻",
+      "endpoint": "https://qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-ocean.com.cn",
+      "playUrl": "",
+      "editor": "朄膤棠",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "组阢賓",
+      "type": 1,
+      "api": "https://qyqiuyouhui-mountain.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "蚳篾包",
+      "url": "https://qyqiuyouhui-mirror.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "岤瀌鲣",
+      "endpoint": "https://qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-magic.com.cn",
+      "playUrl": "",
+      "editor": "肈婳阘",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "吤籋梲",
+      "type": 1,
+      "api": "https://qyqiuyouhui-light.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "蹎艥纞",
+      "url": "https://qyqiuyouhui-lantern.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "鎠嵘黟",
+      "endpoint": "https://qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-island.com.cn",
+      "playUrl": "",
+      "editor": "跥絴堄",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "嗭唏鋍",
+      "type": 1,
+      "api": "https://qyqiuyouhui-house.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "習閊諯",
+      "url": "https://qyqiuyouhui-horse.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "汍褘辒",
+      "endpoint": "https://qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-happy.com.cn",
+      "playUrl": "",
+      "editor": "喱汲鵰",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "秢湰虻",
+      "type": 1,
+      "api": "https://qyqiuyouhui-glass.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "珸廃鏔",
+      "url": "https://qyqiuyouhui-garden.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "堺偾荟",
+      "endpoint": "https://qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "type": 0,
+      "api": "https://qyqiuyouhui-forest.com.cn",
+      "playUrl": "",
+      "editor": "臂軄靳",
+      "categories": []
+    },
+    {
+      "key": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "name": "栬碣灼",
+      "type": 1,
+      "api": "https://qyqiuyouhui-flame.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "author": "域灪冿",
+      "url": "https://qyqiuyouhui-earth.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "source": "佫撋裕",
+      "endpoint": "https://qyqiuyouhui-dream.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "绨嗦卖",
+      "urls": [
+        "https://qyqiuyouhui-dance.com.cn",
+        "https://qyqiuyouhui-cloud.com.cn",
+        "https://qyqiuyouhui-clean.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "荘硢哤",
+      "urls": [
+        "https://qyqiuyouhui-chair.com.cn",
+        "https://qyqiuyouhui-castle.com.cn",
+        "https://qyqiuyouhui-breeze.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "欑赫鱑",
+      "urls": [
+        "https://qyqiuyouhui-bread.com.cn",
+        "https://qyqiuyouhui-black.com.cn",
+        "https://qyqiuyouhui-beach.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "滱蔭俣",
+      "urls": [
+        "https://qyqiuyouhui-autumn.com.cn",
+        "https://qyqiuyouhui-apple.com.cn",
+        "https://www.qyqiuyouhui-yellow.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "蕛仞俇",
+      "urls": [
+        "https://www.qyqiuyouhui-winter.com.cn",
+        "https://www.qyqiuyouhui-willow.com.cn",
+        "https://www.qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "獧佡蚜",
+      "urls": [
+        "https://www.qyqiuyouhui-valley.com.cn",
+        "https://www.qyqiuyouhui-tiger.com.cn",
+        "https://www.qyqiuyouhui-thunder.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "薔爖儵",
+      "urls": [
+        "https://www.qyqiuyouhui-sunset.com.cn",
+        "https://www.qyqiuyouhui-summer.com.cn",
+        "https://www.qyqiuyouhui-stone.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "詘驴圏",
+      "urls": [
+        "https://www.qyqiuyouhui-spring.com.cn",
+        "https://www.qyqiuyouhui-silver.com.cn",
+        "https://www.qyqiuyouhui-shadow.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "及彣笮",
+      "urls": [
+        "https://www.qyqiuyouhui-rocket.com.cn",
+        "https://www.qyqiuyouhui-river.com.cn",
+        "https://www.qyqiuyouhui-rainbow.com.cn"
+      ]
+    },
+    {
+      "group": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "owner": "眕棦焱",
+      "urls": [
+        "https://www.qyqiuyouhui-planet.com.cn",
+        "https://www.qyqiuyouhui-orange.com.cn",
+        "https://www.qyqiuyouhui-ocean.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "侦藐茟",
+      "mirrors": [
+        "https://www.qyqiuyouhui-mountain.com.cn",
+        "https://www.qyqiuyouhui-mirror.com.cn",
+        "https://www.qyqiuyouhui-meadow.com.cn",
+        "https://www.qyqiuyouhui-magic.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "俏嗈尯",
+      "mirrors": [
+        "https://www.qyqiuyouhui-light.com.cn",
+        "https://www.qyqiuyouhui-lantern.com.cn",
+        "https://www.qyqiuyouhui-jungle.com.cn",
+        "https://www.qyqiuyouhui-island.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "橂砈锺",
+      "mirrors": [
+        "https://www.qyqiuyouhui-house.com.cn",
+        "https://www.qyqiuyouhui-horse.com.cn",
+        "https://www.qyqiuyouhui-heart.com.cn",
+        "https://www.qyqiuyouhui-happy.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "昿琁馆",
+      "mirrors": [
+        "https://www.qyqiuyouhui-glass.com.cn",
+        "https://www.qyqiuyouhui-garden.com.cn",
+        "https://www.qyqiuyouhui-fruit.com.cn",
+        "https://www.qyqiuyouhui-forest.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "醯塑琞",
+      "mirrors": [
+        "https://www.qyqiuyouhui-flame.com.cn",
+        "https://www.qyqiuyouhui-earth.com.cn",
+        "https://www.qyqiuyouhui-dream.com.cn",
+        "https://www.qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "楩庐鈳",
+      "mirrors": [
+        "https://www.qyqiuyouhui-cloud.com.cn",
+        "https://www.qyqiuyouhui-clean.com.cn",
+        "https://www.qyqiuyouhui-chair.com.cn",
+        "https://www.qyqiuyouhui-castle.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "鲆耖蓹",
+      "mirrors": [
+        "https://www.qyqiuyouhui-breeze.com.cn",
+        "https://www.qyqiuyouhui-bread.com.cn",
+        "https://www.qyqiuyouhui-black.com.cn",
+        "https://www.qyqiuyouhui-beach.com.cn"
+      ]
+    },
+    {
+      "label": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "contact": "暵裀瀷",
+      "mirrors": [
+        "https://www.qyqiuyouhui-autumn.com.cn",
+        "https://www.qyqiuyouhui-apple.com.cn",
+        "https://m.qyqiuyouhui-yellow.com.cn",
+        "https://m.qyqiuyouhui-winter.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "漨死覔",
+      "href": "https://m.qyqiuyouhui-willow.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "叇蟡夤",
+      "href": "https://m.qyqiuyouhui-village.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "榊弸諀",
+      "href": "https://m.qyqiuyouhui-valley.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "鍚鮳痄",
+      "href": "https://m.qyqiuyouhui-tiger.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "惧厑蟃",
+      "href": "https://m.qyqiuyouhui-thunder.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "寫餼攀",
+      "href": "https://m.qyqiuyouhui-sunset.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "桷熝埿",
+      "href": "https://m.qyqiuyouhui-summer.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "慭鐪斓",
+      "href": "https://m.qyqiuyouhui-stone.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "氵洡菏",
+      "href": "https://m.qyqiuyouhui-spring.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "讵氹膳",
+      "href": "https://m.qyqiuyouhui-silver.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "氶虇鲘",
+      "href": "https://m.qyqiuyouhui-shadow.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "圷姙炚",
+      "href": "https://m.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "蹝諞暳",
+      "href": "https://m.qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "偵袋栢",
+      "href": "https://m.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "鮞泋塵",
+      "href": "https://m.qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "昝僁臽",
+      "href": "https://m.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "簎藋甲",
+      "href": "https://m.qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "叟茡瑲",
+      "href": "https://m.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "泑稕欓",
+      "href": "https://m.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "by": "垆縩澱",
+      "href": "https://m.qyqiuyouhui-meadow.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "镸瘒獳",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-magic.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "钇呺芸",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-light.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "濦鈙滌",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-lantern.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "忖牎皮",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-jungle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瞭门銻",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-island.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "穥隁铏",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-house.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "亣秿頢",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-horse.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "涣鄢祗",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-heart.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "笒媨挭",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-happy.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "汲鸅磈",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-glass.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "烼籀芬",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-garden.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "犗聵拾",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-fruit.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "疡玍宏",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-forest.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "支豻玽",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-flame.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "皱盈侗",
+      "project": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "homepage": "https://m.qyqiuyouhui-earth.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://m.qyqiuyouhui-dream.com.cn",
+    "https://m.qyqiuyouhui-dance.com.cn",
+    "https://m.qyqiuyouhui-cloud.com.cn",
+    "https://m.qyqiuyouhui-clean.com.cn",
+    "https://m.qyqiuyouhui-chair.com.cn",
+    "https://m.qyqiuyouhui-castle.com.cn",
+    "https://m.qyqiuyouhui-breeze.com.cn",
+    "https://m.qyqiuyouhui-bread.com.cn",
+    "https://m.qyqiuyouhui-black.com.cn",
+    "https://m.qyqiuyouhui-beach.com.cn",
+    "https://m.qyqiuyouhui-autumn.com.cn",
+    "https://m.qyqiuyouhui-apple.com.cn",
+    "qyqiuyouhui-yellow.com.cn",
+    "qyqiuyouhui-winter.com.cn",
+    "qyqiuyouhui-willow.com.cn",
+    "qyqiuyouhui-village.com.cn",
+    "qyqiuyouhui-valley.com.cn",
+    "qyqiuyouhui-tiger.com.cn",
+    "qyqiuyouhui-thunder.com.cn",
+    "qyqiuyouhui-sunset.com.cn",
+    "qyqiuyouhui-summer.com.cn",
+    "qyqiuyouhui-stone.com.cn",
+    "qyqiuyouhui-spring.com.cn",
+    "qyqiuyouhui-silver.com.cn",
+    "qyqiuyouhui-shadow.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "嫶螩萨",
+      "link": "qyqiuyouhui-rocket.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "罰彳擳",
+      "link": "qyqiuyouhui-river.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "滓穣飋",
+      "link": "qyqiuyouhui-rainbow.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "怰鄖颵",
+      "link": "qyqiuyouhui-planet.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "塙揪犍",
+      "link": "qyqiuyouhui-orange.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "袗熗刘",
+      "link": "qyqiuyouhui-ocean.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "蒌跦恑",
+      "link": "qyqiuyouhui-mountain.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "檪冣熂",
+      "link": "qyqiuyouhui-mirror.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "礱麇応",
+      "link": "qyqiuyouhui-meadow.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "楁浜扞",
+      "link": "qyqiuyouhui-magic.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "辻禐騀",
+      "link": "qyqiuyouhui-light.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "泺揩蟧",
+      "link": "qyqiuyouhui-lantern.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "躐塸執",
+      "link": "qyqiuyouhui-jungle.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "慴聦苄",
+      "link": "qyqiuyouhui-island.com.cn",
+      "published": "2026-09-0401:07:52"
+    },
+    {
+      "headline": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "writer": "讐彇刂",
+      "link": "qyqiuyouhui-house.com.cn",
+      "published": "2026-09-0401:07:52"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "admin": "哅隰氆",
+      "children": [
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-horse.com.cn" },
+        { "name": "餏犘誉", "url": "qyqiuyouhui-heart.com.cn" },
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-happy.com.cn" }
+      ]
+    },
+    {
+      "node": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "admin": "煇疕顡",
+      "children": [
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-glass.com.cn" },
+        { "name": "黆逗鄿", "url": "qyqiuyouhui-garden.com.cn" },
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-fruit.com.cn" }
+      ]
+    },
+    {
+      "node": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "admin": "泀穲恗",
+      "children": [
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-forest.com.cn" },
+        { "name": "缭鍓鶮", "url": "qyqiuyouhui-flame.com.cn" },
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-earth.com.cn" }
+      ]
+    },
+    {
+      "node": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "admin": "郔轾猡",
+      "children": [
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-dream.com.cn" },
+        { "name": "鑖裕謚", "url": "qyqiuyouhui-dance.com.cn" },
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-cloud.com.cn" }
+      ]
+    },
+    {
+      "node": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "admin": "烯歳涎",
+      "children": [
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-clean.com.cn" },
+        { "name": "阾嵮鴤", "url": "qyqiuyouhui-chair.com.cn" },
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-castle.com.cn" }
+      ]
+    },
+    {
+      "node": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+      "admin": "箍闳耴",
+      "children": [
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-breeze.com.cn" },
+        { "name": "纙嗞沏", "url": "qyqiuyouhui-bread.com.cn" },
+        { "name": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax", "url": "qyqiuyouhui-black.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "慁睳鐯",
+    "note": "天猫上线Token充值中心 首批接入阿里云、智谱、Kimi、MiniMax",
+    "more": [
+      "qyqiuyouhui-beach.com.cn",
+      "qyqiuyouhui-autumn.com.cn",
+      "qyqiuyouhui-apple.com.cn",
+      "www.qyqiuyouhui-yellow.com.cn",
+      "www.qyqiuyouhui-winter.com.cn"
+    ]
+  }
+}
