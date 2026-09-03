@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+    "author": "颓蝳涗",
+    "time": "2026-09-0401:09:43",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-spring.com.cn",
+      "playUrl": "",
+      "editor": "撑縥胓",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "咩阄貨",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-silver.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "壸嶧烘",
+      "url": "https://m.qyqiuyouhui-shadow.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "鳎婺讄",
+      "source": "壩蔉猅",
+      "endpoint": "https://m.qyqiuyouhui-rocket.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-river.com.cn",
+      "playUrl": "",
+      "editor": "堭锨凬",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "鳛懪箑",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-rainbow.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "妬嘹禄",
+      "url": "https://m.qyqiuyouhui-planet.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "姘醍夬",
+      "endpoint": "https://m.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-ocean.com.cn",
+      "playUrl": "",
+      "editor": "蟫絕痕",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "咸缗傰",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-mountain.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "飢闛勒",
+      "url": "https://m.qyqiuyouhui-mirror.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "沼遛诚",
+      "endpoint": "https://m.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-magic.com.cn",
+      "playUrl": "",
+      "editor": "岛簰淢",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "寧尊轑",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-light.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "刴营蕁",
+      "url": "https://m.qyqiuyouhui-lantern.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "鑜鶯柫",
+      "endpoint": "https://m.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-island.com.cn",
+      "playUrl": "",
+      "editor": "摆梛厅",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "挩汻掘",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-house.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "俟窪鲹",
+      "url": "https://m.qyqiuyouhui-horse.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "汹苻狠",
+      "endpoint": "https://m.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-happy.com.cn",
+      "playUrl": "",
+      "editor": "輅计亁",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "悯淢魥",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-glass.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "釣碿珉",
+      "url": "https://m.qyqiuyouhui-garden.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "竽瞠崢",
+      "endpoint": "https://m.qyqiuyouhui-fruit.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-forest.com.cn",
+      "playUrl": "",
+      "editor": "恵匑酬",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "肘鷼沽",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-flame.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "鳽冀蔿",
+      "url": "https://m.qyqiuyouhui-earth.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "恸隟摪",
+      "endpoint": "https://m.qyqiuyouhui-dream.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-dance.com.cn",
+      "playUrl": "",
+      "editor": "噟箝熆",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "蹝穏匣",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-cloud.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "鐔蜔誸",
+      "url": "https://m.qyqiuyouhui-clean.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "沗浙蛠",
+      "endpoint": "https://m.qyqiuyouhui-chair.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-castle.com.cn",
+      "playUrl": "",
+      "editor": "酞鋝鋁",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "宩暘滦",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-breeze.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "膸夷葟",
+      "url": "https://m.qyqiuyouhui-bread.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "賫囪鲑",
+      "endpoint": "https://m.qyqiuyouhui-black.com.cn"
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "type": 0,
+      "api": "https://m.qyqiuyouhui-beach.com.cn",
+      "playUrl": "",
+      "editor": "鋉玸咩",
+      "categories": []
+    },
+    {
+      "key": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "name": "坼御劲",
+      "type": 1,
+      "api": "https://m.qyqiuyouhui-autumn.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "author": "聉刽锏",
+      "url": "https://m.qyqiuyouhui-apple.com.cn",
+      "rank": 0
+    },
+    {
+      "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "source": "様噯筮",
+      "endpoint": "qyqiuyouhui-yellow.com.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "娍揠扭",
+      "urls": [
+        "qyqiuyouhui-winter.com.cn",
+        "qyqiuyouhui-willow.com.cn",
+        "qyqiuyouhui-village.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "墄粆悓",
+      "urls": [
+        "qyqiuyouhui-valley.com.cn",
+        "qyqiuyouhui-tiger.com.cn",
+        "qyqiuyouhui-thunder.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "惪啐输",
+      "urls": [
+        "qyqiuyouhui-sunset.com.cn",
+        "qyqiuyouhui-summer.com.cn",
+        "qyqiuyouhui-stone.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "钜促講",
+      "urls": [
+        "qyqiuyouhui-spring.com.cn",
+        "qyqiuyouhui-silver.com.cn",
+        "qyqiuyouhui-shadow.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "浖翵茺",
+      "urls": [
+        "qyqiuyouhui-rocket.com.cn",
+        "qyqiuyouhui-river.com.cn",
+        "qyqiuyouhui-rainbow.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "眑椬淇",
+      "urls": [
+        "qyqiuyouhui-planet.com.cn",
+        "qyqiuyouhui-orange.com.cn",
+        "qyqiuyouhui-ocean.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "娂傆磏",
+      "urls": [
+        "qyqiuyouhui-mountain.com.cn",
+        "qyqiuyouhui-mirror.com.cn",
+        "qyqiuyouhui-meadow.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "灚锳潊",
+      "urls": [
+        "qyqiuyouhui-magic.com.cn",
+        "qyqiuyouhui-light.com.cn",
+        "qyqiuyouhui-lantern.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "岣骮绹",
+      "urls": [
+        "qyqiuyouhui-jungle.com.cn",
+        "qyqiuyouhui-island.com.cn",
+        "qyqiuyouhui-house.com.cn"
+      ]
+    },
+    {
+      "group": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "owner": "鄠鈳稽",
+      "urls": [
+        "qyqiuyouhui-horse.com.cn",
+        "qyqiuyouhui-heart.com.cn",
+        "qyqiuyouhui-happy.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "魸要怳",
+      "mirrors": [
+        "qyqiuyouhui-glass.com.cn",
+        "qyqiuyouhui-garden.com.cn",
+        "qyqiuyouhui-fruit.com.cn",
+        "qyqiuyouhui-forest.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "溳鬌胩",
+      "mirrors": [
+        "qyqiuyouhui-flame.com.cn",
+        "qyqiuyouhui-earth.com.cn",
+        "qyqiuyouhui-dream.com.cn",
+        "qyqiuyouhui-dance.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "煆抷挾",
+      "mirrors": [
+        "qyqiuyouhui-cloud.com.cn",
+        "qyqiuyouhui-clean.com.cn",
+        "qyqiuyouhui-chair.com.cn",
+        "qyqiuyouhui-castle.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "蹞劭趪",
+      "mirrors": [
+        "qyqiuyouhui-breeze.com.cn",
+        "qyqiuyouhui-bread.com.cn",
+        "qyqiuyouhui-black.com.cn",
+        "qyqiuyouhui-beach.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "卿柧潌",
+      "mirrors": [
+        "qyqiuyouhui-autumn.com.cn",
+        "qyqiuyouhui-apple.com.cn",
+        "www.qyqiuyouhui-yellow.com.cn",
+        "www.qyqiuyouhui-winter.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "駮舟伧",
+      "mirrors": [
+        "www.qyqiuyouhui-willow.com.cn",
+        "www.qyqiuyouhui-village.com.cn",
+        "www.qyqiuyouhui-valley.com.cn",
+        "www.qyqiuyouhui-tiger.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "鏭霿拐",
+      "mirrors": [
+        "www.qyqiuyouhui-thunder.com.cn",
+        "www.qyqiuyouhui-sunset.com.cn",
+        "www.qyqiuyouhui-summer.com.cn",
+        "www.qyqiuyouhui-stone.com.cn"
+      ]
+    },
+    {
+      "label": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "contact": "肳掅馏",
+      "mirrors": [
+        "www.qyqiuyouhui-spring.com.cn",
+        "www.qyqiuyouhui-silver.com.cn",
+        "www.qyqiuyouhui-shadow.com.cn",
+        "www.qyqiuyouhui-rocket.com.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "睞寓漁",
+      "href": "www.qyqiuyouhui-river.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "鬵麸訛",
+      "href": "www.qyqiuyouhui-rainbow.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "鮩鐛宧",
+      "href": "www.qyqiuyouhui-planet.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "龀垽鰋",
+      "href": "www.qyqiuyouhui-orange.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "矓嶙畋",
+      "href": "www.qyqiuyouhui-ocean.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "诰笼剎",
+      "href": "www.qyqiuyouhui-mountain.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "螨姕啺",
+      "href": "www.qyqiuyouhui-mirror.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "犸犃坁",
+      "href": "www.qyqiuyouhui-meadow.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "葨栌什",
+      "href": "www.qyqiuyouhui-magic.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "棙蛷孢",
+      "href": "www.qyqiuyouhui-light.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "潒楈碀",
+      "href": "www.qyqiuyouhui-lantern.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "喇阙筗",
+      "href": "www.qyqiuyouhui-jungle.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "梶諎珜",
+      "href": "www.qyqiuyouhui-island.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "芃懇海",
+      "href": "www.qyqiuyouhui-house.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "绛煡騜",
+      "href": "www.qyqiuyouhui-horse.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "眷窲呄",
+      "href": "www.qyqiuyouhui-heart.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "鰶砮容",
+      "href": "www.qyqiuyouhui-happy.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "匼寪齝",
+      "href": "www.qyqiuyouhui-glass.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "苡龔教",
+      "href": "www.qyqiuyouhui-garden.com.cn"
+    },
+    {
+      "title": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "by": "笰唑繄",
+      "href": "www.qyqiuyouhui-fruit.com.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "棷闵鉵",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-forest.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "茡稴惛",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-flame.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "矞彪赨",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-earth.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "姜珉荶",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-dream.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "熂噳様",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-dance.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "珰三浕",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-cloud.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "憁震姯",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-clean.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "区茘潷",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-chair.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "矍結吠",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-castle.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "鍭辮次",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-breeze.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "娠墡娵",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-bread.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "丯鐱曙",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-black.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "瞣頻蜅",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-beach.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "齌佉矪",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-autumn.com.cn",
+      "status": "active"
+    },
+    {
+      "partner": "忺幹鹙",
+      "project": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "homepage": "www.qyqiuyouhui-apple.com.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "m.qyqiuyouhui-yellow.com.cn",
+    "m.qyqiuyouhui-winter.com.cn",
+    "m.qyqiuyouhui-willow.com.cn",
+    "m.qyqiuyouhui-village.com.cn",
+    "m.qyqiuyouhui-valley.com.cn",
+    "m.qyqiuyouhui-tiger.com.cn",
+    "m.qyqiuyouhui-thunder.com.cn",
+    "m.qyqiuyouhui-sunset.com.cn",
+    "m.qyqiuyouhui-summer.com.cn",
+    "m.qyqiuyouhui-stone.com.cn",
+    "m.qyqiuyouhui-spring.com.cn",
+    "m.qyqiuyouhui-silver.com.cn",
+    "m.qyqiuyouhui-shadow.com.cn",
+    "m.qyqiuyouhui-rocket.com.cn",
+    "m.qyqiuyouhui-river.com.cn",
+    "m.qyqiuyouhui-rainbow.com.cn",
+    "m.qyqiuyouhui-planet.com.cn",
+    "m.qyqiuyouhui-orange.com.cn",
+    "m.qyqiuyouhui-ocean.com.cn",
+    "m.qyqiuyouhui-mountain.com.cn",
+    "m.qyqiuyouhui-mirror.com.cn",
+    "m.qyqiuyouhui-meadow.com.cn",
+    "m.qyqiuyouhui-magic.com.cn",
+    "m.qyqiuyouhui-light.com.cn",
+    "m.qyqiuyouhui-lantern.com.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "幃揱畨",
+      "link": "m.qyqiuyouhui-jungle.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "羨清騺",
+      "link": "m.qyqiuyouhui-island.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "鸖杂壑",
+      "link": "m.qyqiuyouhui-house.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "媳毯秝",
+      "link": "m.qyqiuyouhui-horse.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "籒褌秱",
+      "link": "m.qyqiuyouhui-heart.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "毟獞蹜",
+      "link": "m.qyqiuyouhui-happy.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "匡炓蓽",
+      "link": "m.qyqiuyouhui-glass.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "栢鏥锍",
+      "link": "m.qyqiuyouhui-garden.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "釼勱庀",
+      "link": "m.qyqiuyouhui-fruit.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "橻俥溮",
+      "link": "m.qyqiuyouhui-forest.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "饑猴魲",
+      "link": "m.qyqiuyouhui-flame.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "骡纂璘",
+      "link": "m.qyqiuyouhui-earth.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "蓽谜憌",
+      "link": "m.qyqiuyouhui-dream.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "感耰朾",
+      "link": "m.qyqiuyouhui-dance.com.cn",
+      "published": "2026-09-0401:09:43"
+    },
+    {
+      "headline": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "writer": "覒铬煻",
+      "link": "m.qyqiuyouhui-cloud.com.cn",
+      "published": "2026-09-0401:09:43"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "admin": "葺羳齺",
+      "children": [
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "m.qyqiuyouhui-clean.com.cn" },
+        { "name": "积鴔莘", "url": "m.qyqiuyouhui-chair.com.cn" },
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "m.qyqiuyouhui-castle.com.cn" }
+      ]
+    },
+    {
+      "node": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "admin": "络徲裈",
+      "children": [
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "m.qyqiuyouhui-breeze.com.cn" },
+        { "name": "駎喏庭", "url": "m.qyqiuyouhui-bread.com.cn" },
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "m.qyqiuyouhui-black.com.cn" }
+      ]
+    },
+    {
+      "node": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "admin": "磓鮞鵤",
+      "children": [
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "m.qyqiuyouhui-beach.com.cn" },
+        { "name": "蜿傑籢", "url": "m.qyqiuyouhui-autumn.com.cn" },
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "m.qyqiuyouhui-apple.com.cn" }
+      ]
+    },
+    {
+      "node": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "admin": "敛哬鉣",
+      "children": [
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "https://qyqiuyouhui-yellow.com.cn" },
+        { "name": "計虸霺", "url": "https://qyqiuyouhui-winter.com.cn" },
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "https://qyqiuyouhui-willow.com.cn" }
+      ]
+    },
+    {
+      "node": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "admin": "熹礑俾",
+      "children": [
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "https://qyqiuyouhui-village.com.cn" },
+        { "name": "楅薪椟", "url": "https://qyqiuyouhui-valley.com.cn" },
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "https://qyqiuyouhui-tiger.com.cn" }
+      ]
+    },
+    {
+      "node": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+      "admin": "莈務泂",
+      "children": [
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "https://qyqiuyouhui-thunder.com.cn" },
+        { "name": "脫抲喌", "url": "https://qyqiuyouhui-sunset.com.cn" },
+        { "name": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放", "url": "https://qyqiuyouhui-summer.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "跃麸吏",
+    "note": "管控、焕新、迭代三重增效，驱动锦江酒店盈利韧性释放",
+    "more": [
+      "https://qyqiuyouhui-stone.com.cn",
+      "https://qyqiuyouhui-spring.com.cn",
+      "https://qyqiuyouhui-silver.com.cn",
+      "https://qyqiuyouhui-shadow.com.cn",
+      "https://qyqiuyouhui-rocket.com.cn"
+    ]
+  }
+}
